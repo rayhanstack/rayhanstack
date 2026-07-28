@@ -31,10 +31,10 @@ I enjoy solving complex problems, learning new technologies, and building softwa
 - 💻 Full Stack Web Application Development
 - ⚡ REST API Design & Development
 - 🎨 Modern Frontend Development (React & Vue.js)
+- 📱 Responsive & Mobile-Friendly UI Development
 - 🤖 AI Chatbot Development
 - 🧠 Prompt Engineering for LLM Applications
 - ⚙️ Workflow Automation & AI Integration
-- 📱 Responsive & Mobile-Friendly UI Development
 - 🐳 Docker-Based Development Environment
 
 ---
@@ -123,39 +123,11 @@ I enjoy solving complex problems, learning new technologies, and building softwa
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rayhanstack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhanstack&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rayhanstack&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rayhanstack&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📌 Previous GitHub Account
 
 This is my new GitHub account.
 
-Due to account-related reasons, I migrated to this profile and continue all my development work here.
+Due to account-related reasons, I migrated to this profile and will continue all my development work here.
 
 My previous GitHub profile:
 
